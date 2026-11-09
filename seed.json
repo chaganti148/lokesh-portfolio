@@ -1,0 +1,59 @@
+{
+  "Availability": "Open to remote and on-site roles",
+  "Name": "Lokesh Krishna Chaganti",
+  "Job title": "Senior Software Engineer · Full Stack .NET Developer",
+  "Introduction": "I build secure banking applications, modernize legacy systems, and help teams ship reliable software.",
+  "CKYC metric": "60%",
+  "CKYC metric description": "Less processing time in CKYC",
+  "CTS metric": "30%",
+  "CTS metric description": "Faster CTS turnaround",
+  "Security metric": "98%",
+  "Security metric description": "VAPT compliance achieved",
+  "About paragraph 1": "I’m a full stack .NET engineer based in Khammam, Telangana, India. At Oritso, I work on banking systems that handle customer records, cheque clearing, and payment mandates.",
+  "About paragraph 2": "My work spans Angular interfaces, secure REST APIs, SFTP automation, and SQL performance. I also lead delivery through task planning, code reviews, and coordination with QA and database teams.",
+  "Graduation date": "JUL 2022 · KHAMMAM, INDIA",
+  "Degree": "B.Tech, Computer Science & Engineering",
+  "College": "SBIT College (JNTUH)",
+  "Application development": "C#, .NET Core, ASP.NET MVC, Web API, Entity Framework, LINQ, Angular, TypeScript, JavaScript, HTML5, CSS3",
+  "Architecture and security": "Microservices, Clean Architecture, SOA, REST, JWT, role-based access, VAPT remediation, input validation",
+  "Databases and integrations": "SQL Server, PostgreSQL, MySQL, stored procedures, query tuning, SFTP, XML, JSON, background services",
+  "Delivery and collaboration": "Git, GitHub, GitLab, CI/CD, Postman, Visual Studio, Ubuntu, Windows Server, Jira, Scrum, code review, unit testing",
+  "Current learning": "Currently learning Azure, Docker, Kubernetes, and .NET 8 for cloud-native enterprise applications.",
+  "Contact headline": "Let’s talk about your team.",
+  "Contact message": "I’m open to software engineering roles worldwide, remotely or on site.",
+  "Email address": "mailto:chaganti148@gmail.com",
+  "LinkedIn URL": "https://linkedin.com/in/lokesh-krishna-b26510139",
+  "GitHub URL": "https://github.com/chaganti148",
+  "Footer name": "Lokesh Krishna Chaganti",
+  "Projects": [
+    {
+      "name": "Cheque Truncation System",
+      "category": "CHEQUE CLEARING",
+      "overview": "Built and maintained inward and outward cheque workflows, including asynchronous SFTP services for secure image and data transfer.",
+      "highlights": "Migrated schemas, stored procedures, and queries from SQL Server to PostgreSQL.\nAutomated validation, reconciliation, and operational logging.",
+      "technologies": "C# · ASP.NET MVC · PostgreSQL · SFTP"
+    },
+    {
+      "name": "CKYC Automation System",
+      "category": "CUSTOMER VERIFICATION",
+      "overview": "Rebuilt a monolithic system as .NET microservices for data ingestion, validation, synchronization, and secure file processing.",
+      "highlights": "Built Angular modules for customer records, rejection tracking, and reporting.\nAutomated SFTP transfer and integrated banking systems through REST APIs.",
+      "technologies": "ASP.NET Core · Angular · SQL Server"
+    },
+    {
+      "name": "NACH Automation System",
+      "category": "PAYMENT MANDATES",
+      "overview": "Implemented inward and outward mandate processing, from XML and ZIP file generation to acknowledgements and NPCI file sync.",
+      "highlights": "Built responsive Angular dashboards with filters and image previews.\nIntegrated core banking APIs and resolved access control and session vulnerabilities.",
+      "technologies": ".NET 8 Web API · Angular · SQL Server · XML"
+    }
+  ],
+  "Work experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Oritso Private Limited",
+      "dates": "AUG 2023 – PRESENT · NOIDA, INDIA",
+      "highlights": "Improved API performance by 40% through SQL tuning and service refactoring.\nIntegrated external APIs across Node.js and .NET, reducing API response time by 20%.\nContributed to IoT device-pairing integrations for a Kotlin and Flutter Sound Box project.\nLead task allocation, progress tracking, and code reviews in collaboration with QA and database teams."
+    }
+  ]
+}
